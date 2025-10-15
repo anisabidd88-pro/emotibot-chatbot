@@ -53,8 +53,8 @@ emotibot-app/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/emotibot.git
-cd emotibot
+git clone https://github.com/anisabidd88-pro/emotibot-chatbot.git
+cd emotibot-chatbot
 
 2️⃣ Setup the backend
 cd server
@@ -120,4 +120,5 @@ This project is released under the MIT License — free to use, modify, and dist
 💖 Author
 
 Anis Abid
+
 🎭 Creator of EmotiBot | Passionate about AI & Creative Technologies
